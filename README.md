@@ -60,7 +60,19 @@ dotnet build -c Release
 
 The calculator captures digit input into a running string, stores the first operand and chosen operator when an operator button is pressed, then computes the result on `=` using `double.TryParse` and a `switch` on the operator. `Clear` resets all stored state.
 
-## License
+---
 
-MIT (or update this section with your preferred license)
+## Author
 
+**Sithumini Anuhansi**
+
+Software Engineering Undergraduate (NIBM)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anuhansisithumini@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sithumini-anuhansi-5b32a8334)
+
+---
+
+<div align="right">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Sithumini-Anuhansi.GUI-Calculator&left_text=Views"/>
+</div>
