@@ -1,5 +1,7 @@
 # GUI Calculator
 
+![Logo](logo.png)
+
 A simple desktop calculator built with C# and Windows Forms (.NET 8).
 
 ## Features
